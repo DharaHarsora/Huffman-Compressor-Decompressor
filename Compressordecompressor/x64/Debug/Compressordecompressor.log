@@ -1,0 +1,26 @@
+﻿  main.cpp
+  tempmain.cpp
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(83,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(170,80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(198,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(264,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(307,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(310,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(390,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\priority_queue.h(39,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\priority_queue.h(37): message : while compiling class template member function 'void priority_queue<Tree *,std::vector<Tree *,std::allocator<Tree *>>,TreeComparator>::push(const _type &)'
+          with
+          [
+              _type=Tree *
+          ]
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(50): message : see reference to function template instantiation 'void priority_queue<Tree *,std::vector<Tree *,std::allocator<Tree *>>,TreeComparator>::push(const _type &)' being compiled
+          with
+          [
+              _type=Tree *
+          ]
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(43): message : see reference to class template instantiation 'priority_queue<Tree *,std::vector<Tree *,std::allocator<Tree *>>,TreeComparator>' being compiled
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\priority_queue.h(29,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\priority_queue.h(28): message : while compiling class template member function 'int priority_queue<Tree *,std::vector<Tree *,std::allocator<Tree *>>,TreeComparator>::size(void) noexcept const'
+C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\Compressordecompressor\tempmain.cpp(53): message : see reference to function template instantiation 'int priority_queue<Tree *,std::vector<Tree *,std::allocator<Tree *>>,TreeComparator>::size(void) noexcept const' being compiled
+  Generating Code...
+  Compressordecompressor.vcxproj -> C:\Users\Dhara Harsora\Documents\SEM-3\DSA\DSAPro\Compressordecompressor\x64\Debug\Compressordecompressor.exe
